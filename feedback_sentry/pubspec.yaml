@@ -16,6 +16,10 @@ dependencies:
   flutter:
     sdk: flutter
   feedback:
+    git: 
+      url: https://github.com/osoftware/feedback.git
+      ref: guido
+      path: feedback
   sentry: ^9.0.0
 
 dev_dependencies:
