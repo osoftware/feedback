@@ -15,7 +15,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  feedback: ^3.0.0
+  feedback:
   sentry: ^9.0.0
 
 dev_dependencies:
